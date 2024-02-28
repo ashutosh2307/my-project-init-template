@@ -1,0 +1,22 @@
+# Project Dependencies
+node_modules/
+
+# Cached Package Manager
+.npm/
+
+# Compiled Code
+build/
+
+# Test Coverage
+coverage/
+
+# Log files
+*.log
+
+# Env
+.env
+
+# Editor
+.vscode
+.DS_Store
+.idea
